@@ -1,0 +1,16 @@
+input{
+    align-self: center;
+    background-color: transparent;
+    height: 3.5rem;
+    width: 35.375rem;
+    padding-left: 1rem;
+    border-radius: 10px;
+    border-color:  linear-gradient(90deg, #C98CF1 0%, #7B78E5 100%);
+    border-color: #C98CF1;
+    background: url(../../../public/assets/Vector.svg) no-repeat 34rem ; /*o 34 eh a width desde o inicio*/
+}
+input::placeholder{
+    font-size: 1.75rem;
+    font-weight: 400;
+    color: #D9D9D9;
+}
