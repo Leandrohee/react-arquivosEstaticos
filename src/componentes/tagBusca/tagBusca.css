@@ -1,0 +1,12 @@
+.li-busca{
+    color: white;
+    background-color: rgba(217, 217, 217, 0.3);
+    border-radius: 10px;
+    display: flex;
+    width: 6.52vw;
+    height: 3em;
+    justify-content: center;
+    align-items: center;
+    font-size: 1rem;
+    font-weight: 400;
+}

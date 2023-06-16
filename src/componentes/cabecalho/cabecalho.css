@@ -2,7 +2,7 @@ header{
     height: 7.68rem;
     width: auto;
     margin: 1.43rem 0.81rem;
-    border: 1px solid white;
+    /* border: 1px solid white; */
     display: flex;
     justify-content: space-between;
 }

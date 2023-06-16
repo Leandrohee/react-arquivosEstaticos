@@ -1,0 +1,15 @@
+.banner-maior{
+    width: 80.27%;
+    height: 20.5rem;
+    display: inline-block;
+    margin: 1%;
+    /* background: url(../../../public/assets/Banner.png); */
+    /* border: 1px solid white; */
+    border-radius: 14px;
+}
+
+.banner-maior img{
+    display: inline;
+    width: 100%;
+    height: 100%;
+}

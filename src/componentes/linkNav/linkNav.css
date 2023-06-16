@@ -1,5 +1,6 @@
 .div-nav{
     display: flex;
+    margin: 0.7rem 0;
 }
 .icones-links{
     height: 1.5rem;

@@ -1,4 +1,6 @@
-img{
+.logo{
     align-self: center;
-    height: 3.75rem;
+    /* height: 3.75rem; */
+    width: 14%;
+    height: auto;
 }

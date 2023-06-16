@@ -1,0 +1,30 @@
+.card-foto-maior{
+    width: 20vw;
+    /* height: 16.875rem; */
+    height: auto;
+}
+.card-foto-maior img{
+    width: 100%;
+    border-top-left-radius: 12px;
+    border-top-right-radius: 12px;
+}
+.card-foto-maior h4{
+    margin:0;
+    color: white;
+    font-weight: 700;
+    font-size: 1rem;
+}
+.card-foto-maior div p{
+    font-weight: 400;
+    font-size: 0.8rem;
+    margin: 0;
+    margin-right: 4.5rem;
+}
+.card-foto-maior div img{
+    width: 1.38vw;
+}
+.div-legenda-card{
+    display: flex;
+    justify-content: space-between;
+    color: white;
+}
